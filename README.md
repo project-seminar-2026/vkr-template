@@ -9,6 +9,11 @@
 3. В таблице курса каждый студент указывает свой GitHub username, репозиторий и ссылку на PR при сдаче этапа.
 4. Прочитайте [порядок сдачи](course/submission.md) и [задания со сроками](course/assignments.md).
 
+Условия лабораторных хранятся на Google Диске. На GitHub — шаблоны отчётов и пояснения, куда загрузить результаты:
+
+- **ЛР 2:** [условия](https://docs.google.com/document/d/1AUkfCrnECeBZ_7J4OcKBxSRCcol2ODT-/edit) · [папка и сдача](course/lab2.md) · [шаблон `docs/research/report.md`](docs/research/report.md).
+- **ЛР 3:** [условия](https://docs.google.com/document/d/1eUcNd1wMwoVaSu-DSS-cVRgLJvTT6vza/edit) · [папка и сдача](course/lab3.md) · [шаблон `docs/design/report.md`](docs/design/report.md).
+
 ## Формат и структура
 
 **Предпочтительный формат лабораторных — Markdown (`.md`).** DOCX и PDF также допускаются. Презентации — PPTX или PDF. Требования к оформлению итогового отчёта указаны в заданиях курса.
