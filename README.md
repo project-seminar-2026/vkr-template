@@ -14,6 +14,10 @@
 - **ЛР 2:** [условия](https://docs.google.com/document/d/1AUkfCrnECeBZ_7J4OcKBxSRCcol2ODT-/edit) · [папка и сдача](course/lab2.md) · [шаблон `docs/research/report.md`](docs/research/report.md).
 - **ЛР 3:** [условия](https://docs.google.com/document/d/1eUcNd1wMwoVaSu-DSS-cVRgLJvTT6vza/edit) · [папка и сдача](course/lab3.md) · [шаблон `docs/design/report.md`](docs/design/report.md).
 
+## Обратная связь по курсу
+
+Замечания, проблемы, предложения и идеи по проектному семинару можно оставить в [форме обратной связи](https://forms.yandex.ru/u/6ac504a2068ff07b7d5477dd/). ФИО указывать необязательно — отзыв можно отправить анонимно. [Подробнее о форме](course/feedback.md).
+
 ## Формат и структура
 
 **Предпочтительный формат лабораторных — Markdown (`.md`).** DOCX и PDF также допускаются. Презентации — PPTX или PDF. Требования к оформлению итогового отчёта указаны в заданиях курса.
